@@ -1,0 +1,46 @@
+{
+  "name": "bridger",
+  "description": "Semi automagic bridging of server apis to the browser via socket.io and someday maybe rest...",
+  "version": "0.1.0",
+  "homepage": "https://bitbucket.org/cloudandmortardev/node-bridger",
+  "author": {
+    "name": "David Clarke",
+    "email": "dave@cloudnmortar.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://bitbucket.org/cloudandmortardev/node-bridger.git"
+  },
+  "bugs": {
+    "url": "https://bitbucket.org/cloudandmortardev/node-bridger/issues"
+  },
+  "licenses": [
+    {
+      "type": "Private",
+      "url": "https://bitbucket.org/cloudandmortardev/node-bridger"
+    }
+  ],
+  "main": "lib/index",
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "dependencies": {
+    "deepcopy": "~0.3.3",
+    "extend": "~1.2.1"
+  },
+  "devDependencies": {
+    "mocha": "~1.10.0",
+    "chai": "~1.8.0",
+    "supertest": "~0.8.1",
+    "grunt-contrib-jshint": "~0.6.0",
+    "grunt-contrib-watch": "~0.5.0",
+    "grunt-mocha-cli": "~1.3.0",
+    "load-grunt-tasks": "~0.2.0",
+    "time-grunt": "~0.1.1",
+    "jshint-stylish": "~0.1.3"
+  },
+  "keywords": ["bridge", "socket.io"]
+}
