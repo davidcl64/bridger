@@ -143,7 +143,6 @@ describe('bridger.io', function(){
         });
 
         describe('#Args Router - test resource', function(){
-
             this.timeout(0);
 
             it('should setup an arguments based router', function(done) {
