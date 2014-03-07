@@ -31,6 +31,10 @@ provide unexpected results.
     BridgerIO_Client().bind(socket, "svc1" function(client1) {...}
     BridgerIO_Client().bind(socket, "svc1" function(client2) {...}
 
+###Installing
+
+The normal npm install will work however, this module relies on the upcoming 1.0 release of
+socket.io.  You will need to install that manually!
 
 ###To Dos 
 
