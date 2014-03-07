@@ -2,22 +2,22 @@
   "name": "bridger",
   "description": "Semi automagic bridging of server apis to the browser via socket.io and someday maybe rest...",
   "version": "0.1.0",
-  "homepage": "https://bitbucket.org/cloudandmortardev/node-bridger",
+  "homepage": "https://bitbucket.org/cloudandmortardev/bridger",
   "author": {
     "name": "David Clarke",
     "email": "dave@cloudnmortar.com"
   },
   "repository": {
     "type": "git",
-    "url": "git://bitbucket.org/cloudandmortardev/node-bridger.git"
+    "url": "git://bitbucket.org/cloudandmortardev/bridger.git"
   },
   "bugs": {
-    "url": "https://bitbucket.org/cloudandmortardev/node-bridger/issues"
+    "url": "https://bitbucket.org/cloudandmortardev/bridger/issues"
   },
   "licenses": [
     {
       "type": "Private",
-      "url": "https://bitbucket.org/cloudandmortardev/node-bridger"
+      "url": "https://bitbucket.org/cloudandmortardev/bridger"
     }
   ],
   "main": "lib/index",
