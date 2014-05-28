@@ -16,7 +16,7 @@
   },
   "licenses": [
     {
-        "license": "MIT"
+      "license": "MIT"
     }
   ],
   "main": "lib/index",
@@ -28,7 +28,8 @@
   },
   "dependencies": {
     "deepcopy": "~0.3.3",
-    "extend": "~1.2.1"
+    "extend": "~1.2.1",
+    "socket.io": "~1.0.2"
   },
   "devDependencies": {
     "mocha": "~1.10.0",
@@ -41,5 +42,9 @@
     "time-grunt": "~0.1.1",
     "jshint-stylish": "~0.1.3"
   },
-  "keywords": ["api", "bridge", "socket.io"]
+  "keywords": [
+    "api",
+    "bridge",
+    "socket.io"
+  ]
 }
