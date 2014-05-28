@@ -1,7 +1,7 @@
 {
   "name": "bridger",
   "description": "Semi automagic bridging of server apis to the browser via socket.io and someday maybe rest...",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "homepage": "https://github.com/davidcl64/bridger",
   "author": {
     "name": "David Clarke",
