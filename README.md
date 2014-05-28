@@ -1,5 +1,7 @@
 # bridger
 
+[![Build Status](https://travis-ci.org/davidcl64/bridger.svg?branch=master)](https://travis-ci.org/davidcl64/bridger)
+
 A way to easily expose apis over socket.io (and perhaps in the future: sockjs and rest)
 
 The code that exists currently "works for me" but is likely to change dramatically 
@@ -33,8 +35,7 @@ provide unexpected results.
 
 ###Installing
 
-The normal npm install will work however, this module relies on the upcoming 1.0 release of
-socket.io.  You will need to install that manually!
+npm install bridger
 
 ###To Dos 
 
